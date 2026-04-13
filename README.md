@@ -8,17 +8,17 @@ I help founders turn ideas into real, scalable iOS products — fast and clean.
 
 ## 🌐 Website
 
-👉 https://olegotka.es  
+👉 Visit my website — iOS MVP development for startups
 
 ---
 
 ## 💡 What I do
 
-- 📱 Native iOS apps (Swift, SwiftUI)
-- 🚀 MVP development for startups
-- 🎨 Prototyping & UI/UX implementation
-- 🔧 App improvement & maintenance
-- 🧠 Architecture & performance optimization
+- 📱 Native iOS apps (Swift, SwiftUI)  
+- 🚀 MVP development for startups  
+- 🎨 Prototyping & UI/UX implementation  
+- 🔧 App improvement & maintenance  
+- 🧠 Architecture & performance optimization  
 
 ---
 
@@ -30,23 +30,21 @@ Swift • SwiftUI • UIKit • Core Data • Firebase • REST APIs • Combine
 
 ## 📲 My Work
 
-👉 Portfolio:  
-🔗 https://github.com/OlegYakushin/portfolio  
+👉 Explore my portfolio
 
 Some of my apps:
 - StoryMaker – full-cycle development  
 - Day’s – travel tracking app  
-- Pomodoro Tale (tvOS) – focus app  
+- Pomodoro Tale (tvOS) – focus app for Apple TV  
 - Share Screenshot (macOS) – productivity tool  
 
 ---
 
 ## 🤝 Work with me
 
-- 🌐 Website: https://olegotka.es  
-- 💼 Fiverr: https://www.fiverr.com/oleg_yakushin  
-- 💼 Upwork: https://www.upwork.com/freelancers/olegotka  
-- 📅 Book a call: https://cal.com/olegotka/first-call  
+🌐 Visit my website  
+💼 Available on Fiverr and Upwork  
+📅 Book a call  
 
 ---
 
