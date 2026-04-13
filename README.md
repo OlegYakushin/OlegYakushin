@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oleg Yakushin
 
-iOS Developer focused on building high-quality MVP apps for startups 🚀  
+iOS Developer focused on building **high-quality MVP apps for startups** 🚀  
 
 I help founders turn ideas into real, scalable iOS products — fast and clean.
 
@@ -8,7 +8,7 @@ I help founders turn ideas into real, scalable iOS products — fast and clean.
 
 ## 🌐 Website
 
-👉 Visit my website — iOS MVP development for startups
+👉 Visit my [website](https://olegotka.es) — iOS MVP development for startups
 
 ---
 
@@ -30,21 +30,21 @@ Swift • SwiftUI • UIKit • Core Data • Firebase • REST APIs • Combine
 
 ## 📲 My Work
 
-👉 Explore my portfolio
+👉 Explore my [portfolio](https://github.com/OlegYakushin/portfolio)
 
 Some of my apps:
-- StoryMaker – full-cycle development  
-- Day’s – travel tracking app  
-- Pomodoro Tale (tvOS) – focus app for Apple TV  
-- Share Screenshot (macOS) – productivity tool  
+- **StoryMaker** – full-cycle development  
+- **Day’s** – travel tracking app  
+- **Pomodoro Tale (tvOS)** – focus app for Apple TV  
+- **Share Screenshot (macOS)** – productivity tool  
 
 ---
 
 ## 🤝 Work with me
 
-🌐 Visit my website  
-💼 Available on Fiverr and Upwork  
-📅 Book a call  
+🌐 Visit my [website](https://olegotka.es)  
+💼 Available on [Fiverr](https://www.fiverr.com/oleg_yakushin) and [Upwork](https://www.upwork.com/freelancers/olegotka)  
+📅 Book a [call](https://cal.com/olegotka/first-call)  
 
 ---
 
