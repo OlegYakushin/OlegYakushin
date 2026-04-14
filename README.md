@@ -32,8 +32,15 @@ Swift • SwiftUI • UIKit • Core Data • Firebase • REST APIs • Combine
 
 👉 Explore my [portfolio](https://github.com/OlegYakushin/portfolio)
 
-Some of my apps:
-- **StoryMaker** – full-cycle development  
+Some of my selected apps:
+
+- **DailyAscent** – productivity MVP app with habit tracking and scalable architecture  
+- **MimeRush** – interactive app with custom animations and gesture-based UX  
+- **ClipCast** – media-focused app with content handling and system integrations  
+- **Scanner** – document scanning app using camera and native iOS capabilities  
+
+Other projects:
+- **StoryMaker** – full-cycle iOS development  
 - **Day’s** – travel tracking app  
 - **Pomodoro Tale (tvOS)** – focus app for Apple TV  
 - **Share Screenshot (macOS)** – productivity tool  
